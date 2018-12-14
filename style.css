@@ -1,0 +1,59 @@
+body {
+	font-family: 'Righteous', cursive;
+}
+
+.bg-primary {
+	background: #550997 !important;
+}
+
+.btn-primary {
+	background: #550997;
+	width: 120px;
+}
+
+.btn-primary:visited{background: #550997;}
+.btn-primary:hover {background: #C200AA;}
+.btn-primary:active{background: #C200AA !important;}
+
+.break-section {
+	height: 6px;
+	background-color: #550997;
+	color: #550997;
+	border: 0 none;
+	border-radius: 3px;
+}
+
+.pagebreak {
+	height: 6px;
+	background-color: #C200AA;
+	color: #C200AA;
+	border: 0 none;
+	border-radius: 3px;
+}
+
+.yarn {
+	max-height: 300px;
+}
+
+.ravelry {
+	color: #550997;
+	text-decoration: underline;
+}
+
+.buttontext {
+	color: white;
+}
+
+.buttontext:hover {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	cursor: pointer;
+	color: #C200AA;
+}
+
+footer { 
+	text-align: center; }
+
+
